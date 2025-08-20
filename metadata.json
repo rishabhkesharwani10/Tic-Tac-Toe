@@ -1,0 +1,5 @@
+{
+  "name": "React Tic Tac Toe",
+  "description": "A classic Tic Tac Toe game for two players, built with React and TypeScript. Features a modern and clean user interface with a sleek dark theme.",
+  "requestFramePermissions": []
+}
